@@ -1,0 +1,16 @@
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\bin\Debug\SchoolManagement1.exe.config
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\bin\Debug\SchoolManagement1.exe
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\bin\Debug\SchoolManagement1.pdb
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\obj\Debug\SchoolManagement1.csproj.AssemblyReference.cache
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\obj\Debug\SchoolManagement1.Form1.resources
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\obj\Debug\SchoolManagement1.Login.resources
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\obj\Debug\SchoolManagement1.Main.resources
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\obj\Debug\SchoolManagement1.Properties.Resources.resources
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\obj\Debug\SchoolManagement1.Students.resources
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\obj\Debug\SchoolManagement1.Subjects.resources
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\obj\Debug\SchoolManagement1.Teachers.resources
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\obj\Debug\SchoolManagement1.csproj.GenerateResource.cache
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\obj\Debug\SchoolManagement1.csproj.CoreCompileInputs.cache
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\obj\Debug\SchoolManagement1.exe
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\obj\Debug\SchoolManagement1.pdb
+C:\Users\madhu\OneDrive\Desktop\C# projects\SchoolManagement1\SchoolManagement1\obj\Debug\SchoolManagement1.DashBoard.resources
